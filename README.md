@@ -1,7 +1,7 @@
 <p align="center">Welcome to Levy Junior's github profile! 😎</p>
 
 <p>
-	<img src="download/design/banner/github-banner-unsplash.jpg" alt="code screen" width="100%">
+	
 </p>
 
 <h2 align="center"><b>Front End Developer<b></h2>
