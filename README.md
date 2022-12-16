@@ -1,7 +1,5 @@
 <p align="center">Welcome to Levy Junior's github profile!</p>
-<p align="center"><b>Front end developer<b></p>
-
----
+<h2 align="center"><b>Front end developer<b></h2>
 
 <p>- You can see my portfolio here: ...</p>
 <p>- Tools i use daily:</p>
