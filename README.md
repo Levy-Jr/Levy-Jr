@@ -4,7 +4,7 @@
 	
 </p>
 
-<h2 align="center"><b>Full-Stack Developer<b></h2>
+<h2 align="center"><b>Frontend Developer<b></h2>
 
 <p>- You can see my portfolio here: <a href="https://levy-jr.github.io/Portfolio/">Portfolio</a></p>
   <p>- <a href="https://www.linkedin.com/in/levy-gomes-23543224a/">Linkedin</a> 💼</p>
