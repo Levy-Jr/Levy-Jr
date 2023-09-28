@@ -16,4 +16,4 @@
 <br/><br/>
 
 <h3>Contact 📞:</h3>
-	- Email: levybusinessjr@gmail.com
+	- Email: levyjrdev@gmail.com
