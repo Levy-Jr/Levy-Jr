@@ -6,7 +6,7 @@
 
 <h2 align="center"><b>Frontend Developer<b></h2>
 
-<p>- You can see my portfolio here: <a href="https://levy-jr.github.io/Portfolio/">Portfolio</a></p>
+<p>- You can see my portfolio here: <a href="https://levy-jr.github.io/portfolio-2.0/">Portfolio</a></p>
   <p>- <a href="https://www.linkedin.com/in/levy-gomes-23543224a/">Linkedin</a> 💼</p>
 <p>- Tools I use daily:</p>
 
@@ -16,4 +16,4 @@
 <br/><br/>
 
 <h3>Contact 📞:</h3>
-	- Email: levybusinessjr@gmail.com
+	- Email: levyjrdevr@gmail.com
