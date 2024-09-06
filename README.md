@@ -9,5 +9,5 @@
 <p>- You can see my portfolio here: <a href="https://levy-jr.com">Portfolio</a></p>
 <p>- <a href="https://www.linkedin.com/in/levy-gomes-23543224a/">Linkedin</a> 💼</p>
 
-<h3>Contact 📞:</h3>
+<h3>Contact:</h3>
 	- Email: levyjrdev@gmail.com
