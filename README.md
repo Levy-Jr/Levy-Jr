@@ -1,4 +1,4 @@
-<p align="center">Welcome to Levy Junior's github profile! 😎</p>
+<h1 align="center">Levy Jr's Github Profile</h1>
 
 <p>
 	
