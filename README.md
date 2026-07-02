@@ -25,5 +25,5 @@ Infrastructure
 ## Links
 
 - Portfolio: [levyjr.com](https://levyjr.com)
-- Studio: [Okacodes](https://okacodes.com)
+- Studio: [okacodes.com](https://okacodes.com)
 - Email: levyjrdev@gmail.com
